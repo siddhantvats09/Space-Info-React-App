@@ -1,0 +1,16 @@
+.maincardbody{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 20px;
+}
+.mycard{
+    text-align: center;
+    color: red;
+    font-weight: 400;
+    margin-top: 5px;
+}
+.mylau{
+    color: rgb(0, 167, 53);
+}

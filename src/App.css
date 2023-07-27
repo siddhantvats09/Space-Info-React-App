@@ -1,38 +1,93 @@
 .App {
   text-align: center;
+  
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
+body{
   background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+}
+
+
+.nav-item{
+  margin-right: 20px;
+}
+.naav{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #e1e1e1;
+}
+/* App.css */
+.Appp {
+  text-align: center;
+  margin: 0 auto;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  color: #ffffff;
+
+}
+
+.header {
+  background-color: #11111100;
+  color: #fff;
+  padding: 1rem;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
 }
 
-.App-link {
-  color: #61dafb;
+.header h1 {
+  margin: 0;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.main {
+  padding: 2rem;
+}
+
+.hero-section {
+  background-image: url('https://example.com/path-to-your-hero-image.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+}
+
+.hero-section h2 {
+  font-size: 3rem;
+}
+
+.hero-section p {
+  font-size: 1.5rem;
+}
+
+.hero-section button {
+  background-color: #fff;
+  color: #111;
+  border: none;
+  padding: 1rem 2rem;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.info-section {
+  padding: 2rem;
+}
+
+.info-section h3 {
+  font-size: 2rem;
+}
+
+.info-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.info-section li {
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+}
+
+.footer {
+  background-color: #111;
+  color: #fff;
+  padding: 1rem;
+  justify-content: center;
 }
