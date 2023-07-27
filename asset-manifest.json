@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Space-Info-React-App/static/css/main.6e7a77bf.css",
+    "main.js": "/Space-Info-React-App/static/js/main.9528e468.js",
+    "index.html": "/Space-Info-React-App/index.html",
+    "main.6e7a77bf.css.map": "/Space-Info-React-App/static/css/main.6e7a77bf.css.map",
+    "main.9528e468.js.map": "/Space-Info-React-App/static/js/main.9528e468.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e7a77bf.css",
+    "static/js/main.9528e468.js"
+  ]
+}
